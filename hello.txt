@@ -5,3 +5,6 @@ This is my first tough to git
 
 Thanks,
 An
+
+==========
+Edited from github.com by dinhvinhan
